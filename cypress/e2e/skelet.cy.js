@@ -4,5 +4,5 @@ describe('НАЗВАНИЕ_ГРУППЫ_ТЕСТОВ', function () {
          cy.visit('ДОМЕН');
      })
 
-     it('hjlchuchew')
+     
  }) 
